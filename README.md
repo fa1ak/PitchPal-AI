@@ -1,6 +1,6 @@
-# SalesAgent
+# PitchPal AI
 
-SalesAgent is an AI-powered sales assistant designed to facilitate seamless and efficient sales interactions using conversational AI. The project integrates advanced text-to-speech (TTS) capabilities and asynchronous task handling to provide users with a fluid and natural conversation experience. This solution is perfect for businesses looking to enhance their customer engagement through automated and intelligent dialogues.
+PitchPal AI is an AI-powered sales assistant designed to facilitate seamless and efficient sales interactions using conversational AI. The project integrates advanced text-to-speech (TTS) capabilities and asynchronous task handling to provide users with a fluid and natural conversation experience. This solution is perfect for businesses looking to enhance their customer engagement through automated and intelligent dialogues.
 
 ## Features
 
@@ -34,8 +34,8 @@ SalesAgent is an AI-powered sales assistant designed to facilitate seamless and 
 1. **Clone the repository**:
 
    ```sh
-   git clone https://github.com/Babariyayash/salesAgent.git
-   cd salesAgent
+   git clone https://github.com/fa1ak/PitchPal-AI.git
+   cd PitchPal-AI
 
 2. **Create and activate a virtual environment**:
    ```sh
@@ -64,7 +64,7 @@ SalesAgent is an AI-powered sales assistant designed to facilitate seamless and 
 
 ### Example Screenshots
 
-Below are screenshots demonstrating the response handling and conversation stages of the SalesAgent in action, showcasing the transition between different stages of customer interaction and how the agent handles user input:
+Below are screenshots demonstrating the response handling and conversation stages of PitchPal-AI in action, showcasing the transition between different stages of customer interaction and how the agent handles user input:
 
 1. **Initial Pricing Inquiry**:
    - The user asks about prices for bathroom products.
@@ -84,7 +84,7 @@ Below are screenshots demonstrating the response handling and conversation stage
 
    ![Sale Close](asset/clarification.png)
 
-These screenshots highlight the SalesAgent's capability to handle dynamic sales conversations and respond promptly, facilitating a smooth customer experience.
+These screenshots highlight the PitchPal-AI's capability to handle dynamic sales conversations and respond promptly, facilitating a smooth customer experience.
 
 
 ## Dependencies
